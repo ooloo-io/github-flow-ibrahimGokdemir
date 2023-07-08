@@ -25,5 +25,14 @@ body {
   max-width: 100%;
   margin: auto;
 }
-
+ 
+.section {
+  height: 450px;
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
   
